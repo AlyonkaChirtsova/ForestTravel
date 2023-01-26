@@ -990,7 +990,7 @@ ul.ui-list a {
 /* Slider */
 
 .hidden {
-    display: none;     
+    display: none !important;     
 }
   
 .slide-container {
