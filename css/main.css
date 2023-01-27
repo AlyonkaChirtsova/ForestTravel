@@ -998,7 +998,7 @@ ul.ui-list a {
     overflow: hidden;
     margin: 0 auto;
     max-width: 100%;  
-    min-width: 613px;
+    min-height: 613px;
 }
   
 .altayslide, .austslide {       
