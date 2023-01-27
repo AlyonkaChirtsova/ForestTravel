@@ -981,21 +981,7 @@
     } 
 
     .arrow {
-        top: 50%;
-        transform: translateY(-50%);
-        z-index: 20;
-    }
-    
-    .arrow svg path {
-        fill: #fff;          
-     } 
-
-    #arrowPrevAltay, #arrowPrevAust {
-        left: 5%;   
-    }
-    
-    #arrowNextAltay, #arrowNextAust {
-        right: 5%;    
+        display: none;
     }   
       
     .slide-text {  
@@ -1005,7 +991,7 @@
     }
     
     .altayslide img, .austslide img {
-        max-width: 600px;
+        width: 600px;
         height: 562px;          
     }
     
